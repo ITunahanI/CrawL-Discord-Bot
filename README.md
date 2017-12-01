@@ -6,4 +6,13 @@
 <b>5. Adım:</b> Ayarlar.json dosyasını açıp ayarlarınızı yapın.<br>
 <b>6. Adım:</b> Modüller yüklendikten sonra, komut penceresine <b>node bot.js</b> komutunu yazın ve botu çalıştırın.<br>
 
-<h2>Botun altyapısı için kullandığım kaynak: https://github.com/AnIdiotsGuide/Tutorial-Bot</h2>
+<h1>CrawL Beta 8</h1> 
+<b>Altın sistemi.<b>
+<b>Madencilik sistemi.<b>
+<b>Özel tasarlanan yardım kısmı.<b>
+<b>Yazı tura sistemi.<b>
+<b>Random kedi ve köpek resmi.<b>
+<b>Random kedi adı ve köpek adı.<b>
+<b>Banlama , uyarı verme komutları<b>
+<b>Hastebin komutu<b>
+<b>Direkt baslat.bat çalıştırınız. <br>
