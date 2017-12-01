@@ -1,11 +1,11 @@
 {
-	"sahip": "269441501790994433",
-	"ad": "Tunahan™",
-	"botadi": "CrawL",
-	"davet": "https://discordapp.com/oauth2/authorize?client_id=367242877425680394&scope=bot&permissions=1543982127",
-	"botserverlink": "https://discordapp.com/invite/NFFWntS",
-	"owner": "269441501790994433",
-	"prefix": "..",
-	"surum": "1.4.7",
-	"token": "MzY3MjQyODc3NDI1NjgwMzk0.DQG6zw.SYdfqKY8N7A3AOJFzzcI2jzeSk4"
+	"sahip": "SAHİP İD",
+	"ad": "SAHİP ADI",
+	"botadi": "BOTADI",
+	"davet": "BOT DAVET LİNK",
+	"botserverlink": "Botun Serveri",
+	"owner": "SAHİP İD",
+	"prefix": "PREFİX",
+	"surum": "SÜRÜM",
+	"token": "TOKEN"
 }
